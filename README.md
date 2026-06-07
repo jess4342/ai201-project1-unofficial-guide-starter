@@ -9,8 +9,7 @@
 
 ## Demo Video
 
-<video src="https://github.com/jess4342/ai201-project1-unofficial-guide-starter/raw/main/unofficialguide_demo.mp4" controls width="640"></video>
-
+**[▶️ Watch the demo (unofficialguide_demo.mp4)](unofficialguide_demo.mp4)** 
 ---
 
 ## Domain
