@@ -7,6 +7,12 @@
 
 ---
 
+## Demo Video
+
+<video src="https://github.com/jess4342/ai201-project1-unofficial-guide-starter/raw/main/unofficialguide_demo.mp4" controls width="640"></video>
+
+---
+
 ## Domain
 
 <!-- What topic or category of knowledge does your system cover?
